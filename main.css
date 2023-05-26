@@ -1,0 +1,26 @@
+#top{
+    background-image: url(/images/theater-image-background.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 750px;
+}
+
+.btn-btn{
+    height:40px;
+    width:100px;
+    background-color: goldenrod;
+
+}
+
+#middle{
+    margin: auto;
+    width: 750px;
+}
+
+#text{
+    font-size: 100px;
+}
+
+.btn-btn:hover{
+    background-color: darkorange;
+}
